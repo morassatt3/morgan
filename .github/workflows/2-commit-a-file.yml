@@ -21,7 +21,7 @@ permissions:
 jobs:
   on_commit_a_file:
     name: On commit a file
-
+ 
     # We will only run this action when:
     # 1. This repository isn't the template repository
     # Reference https://docs.github.com/en/actions/learn-github-actions/contexts
